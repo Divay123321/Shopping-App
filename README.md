@@ -29,8 +29,6 @@ A Flutter e-commerce app for browsing and purchasing shoes, built with Provider 
 - Dialog and SnackBar for user feedback
 - Widget extraction and project folder structure
 
-## Screenshots
-[Add screenshots here]
 
 ## Getting Started
 1. Clone the repo
